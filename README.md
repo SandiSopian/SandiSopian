@@ -47,6 +47,6 @@ Fork on GitHub1783
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.sandisopian.vercel.app/api?username=sandisopian&show_icons=true&hide_border=true" />
+  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats-eta-five-32.vercel.app/api?username=shunasand53-gmailcom&show_icons=true&hide_border=true" />
 
 </details>
