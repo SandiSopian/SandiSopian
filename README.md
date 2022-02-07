@@ -1,7 +1,3 @@
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo8278
-Fork on GitHub1783
 <h1 align="center">Hi 👋, I'm Sandi Sopian</h1>
 <h3 align="center">A passionate web development</h3>
 
