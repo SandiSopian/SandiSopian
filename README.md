@@ -43,7 +43,9 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="shunasand53 GitHub Stats" src="https://github-readme-stats-eta-five-32.vercel.app/api?username=sandisopian&show_icons=true&hide_border=true&theme=radical" />
+  <img align="left" alt="shunasand53 GitHub Stats" src="https://github-readme-stats-eta-five-32.vercel.app/api?username=sandisopian&show_icons=true&hide_border=true" />
+  
+ ---
   
   [![Top Langs](https://github-readme-stats-eta-five-32.vercel.app/api/top-langs/?username=sandisopian&langs_count=8)](https://github.com/sandisopian/github-readme-stats)
 
