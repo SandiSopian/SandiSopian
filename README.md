@@ -49,6 +49,6 @@
  
  ---
   
-  [![Top Langs](https://github-readme-stats-eta-five-32.vercel.app/api/top-langs/?username=sandisopian&langs_count=8&theme=radical)](https://github.com/sandisopian/github-readme-stats)
+  [![Top Langs](https://github-readme-stats-eta-five-32.vercel.app/api/top-langs/?username=sandisopian&layouts=compact&theme=radical)](https://github.com/sandisopian/github-readme-stats)
 
 </details>
