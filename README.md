@@ -43,12 +43,12 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="shunasand53 GitHub Stats" src="https://github-readme-stats-eta-five-32.vercel.app/api?username=sandisopian&show_icons=true&hide_border=true&theme=radical" />
+  <img align="left" alt="shunasand53 GitHub Stats" src="https://github-readme-stats-eta-five-32.vercel.app/api?username=sandisopian&show_icons=true&hide_border=true&theme=cobalt" />
   
 <br>
  
  ---
   
-  [![Top Langs](https://github-readme-stats-eta-five-32.vercel.app/api/top-langs/?username=sandisopian&layouts=compact&theme=radical)](https://github.com/sandisopian/github-readme-stats)
+  [![Top Langs](https://github-readme-stats-eta-five-32.vercel.app/api/top-langs/?username=sandisopian&layout=compact&theme=cobalt)](https://github.com/sandisopian/github-readme-stats)
 
 </details>
