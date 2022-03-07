@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **https://linktr.ee/sandis13**
 
-- 📄 Know about my experiences [https://imgbox.com/g/LGG6PiPUAR](https://imgbox.com/g/LGG6PiPUAR)
+- 📄 Know about my experiences **https://sandis.w3spaces.com/**
 
 - ⚡ Fun fact **I think Im simple**
 
