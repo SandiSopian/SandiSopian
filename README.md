@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **full stack developer**
 
-- 📫 How to reach me **https://linktr.ee/Sandi03**
+- 📫 How to reach me **https://linktr.ee/sandis13**
 
 - 📄 Know about my experiences [https://imgbox.com/g/LGG6PiPUAR](https://imgbox.com/g/LGG6PiPUAR)
 
