@@ -3,13 +3,13 @@
 
 - 🔭 I’m currently working on **Web Development**
 
-- 🌱 I’m currently learning **Laravel,ReactJS,Tailwind**
+- 🌱 I’m currently learning **Javascript Fundamental, ReactJS, NodeJS, React Native**
 
 - 👯 I’m looking to collaborate on **Any Developers**
 
 - 👨‍💻 All of my projects are available at [https://sandisopian.github.io/](https://sandisopian.github.io/)
 
-- 💬 Ask me about **full stack developer**
+- 💬 Ask me about **Web Programming**
 
 - 📫 How to reach me **https://linktr.ee/sandis13**
 
