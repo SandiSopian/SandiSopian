@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **Any Developers**
 
-- 👨‍💻 All of my projects are available at [http://sandiss1.skom.id/]
+- 👨‍💻 All of my projects are available at http://sandiss1.skom.id/
 
 - 💬 Ask me about **Web Programming**
 
