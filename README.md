@@ -7,13 +7,13 @@
 
 - 👯 I’m looking to collaborate on **Any Developers**
 
-- 👨‍💻 All of my projects are available at http://sandiss1.skom.id/
-
+- 👨‍💻 All of my projects are available at https://ss-portfolio-34bab.web.app/
+  
 - 💬 Ask me about **Web Programming**
 
-- 📫 How to reach me **https://linktr.ee/sandis13**
+- 📫 How to reach me **https://taplink.cc/sarendia**
 
-- 📄 Know about my experiences **https://sandis.w3spaces.com/**
+- 📄 Know about my experiences **https://taplink.cc/sandiskom**
 
 - ⚡ Fun fact **I think Im simple**
 
