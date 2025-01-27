@@ -24,8 +24,7 @@
 <a href="https://dev.to/sandi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="sandi" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/sandi-sopian-007623227" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sandi-sopian-007623227" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/12993873" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="12993873" height="30" width="40" /></a>
-<a href="https://instagram.com/sandi_return0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sandi_return0" height="30" width="40" /></a>
-<a href="https://discord.gg/https://discord.gg/KSpChYj2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/KSpChYj2" height="30" width="40" /></a>
+<a href="https://www.instagram.com/sarendia__/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sandi_return0" height="30" width="40" /></a>
 </p>
 
 ---
