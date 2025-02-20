@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **Any Developers**
 
-- 👨‍💻 All of my projects are available at **https://ss-portfolio-34bab.web.app/**
+- 👨‍💻 All of my projects are available at **https://new-portfolio-sandi.vercel.app/**
   
 - 💬 Ask me about **Web Programming**
 
