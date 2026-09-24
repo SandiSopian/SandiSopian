@@ -7,15 +7,13 @@
 
 - 👯 I’m looking to collaborate on **Any Developers**
 
-- 👨‍💻 All of my projects are available at **https://new-portfolio-sandi.vercel.app/**
+- 👨‍💻 All of my projects are available at **https://new-portfolio-v3-coral.vercel.app/**
   
 - 💬 Ask me about **Web Programming**
 
 - 📫 How to reach me **https://taplink.cc/sarendia**
 
-- 📄 Know about my experiences **https://taplink.cc/sandiskom**
-
-- ⚡ Fun fact **I think Im simple**
+- ⚡ About me **Focus on what you can control!**
 
 ---
 
